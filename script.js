@@ -23,7 +23,7 @@ const songs = [
     },
     {
         name: "song_03",
-        title: "You can be king again",
+        title: "king",
         artist: "Lauren Aquilina",
     },
     {
